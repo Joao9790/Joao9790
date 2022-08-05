@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Joao9790
-- 👀 I’m interested in investir
-- 🌱 I’m currently learning programaçao
+- 👋 oi, eu sou @Joao9790
+- 👀 estou interessado em investir
+- atualmente estou aprendendo  programaçao
 - 💞️ I’m looking to collaborate on nas aulas
 - 📫 How to reach me ser muito inteligente,sabedoria.
 
